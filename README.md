@@ -15,4 +15,5 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/BusanGukbap/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
+| [0178-rank-scores](https://github.com/BusanGukbap/LeetCode/tree/main/0178-rank-scores/) | Medium |
 <!---LeetCode Topics End-->

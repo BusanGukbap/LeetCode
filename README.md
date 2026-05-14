@@ -9,10 +9,12 @@ BusanGukbap solved leetcode problems
 | [0001-two-sum](https://github.com/BusanGukbap/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/BusanGukbap/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/BusanGukbap/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/BusanGukbap/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BusanGukbap/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/BusanGukbap/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +33,7 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/BusanGukbap/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/BusanGukbap/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

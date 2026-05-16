@@ -7,6 +7,7 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BusanGukbap/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BusanGukbap/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/BusanGukbap/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/BusanGukbap/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/BusanGukbap/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -38,4 +39,8 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/BusanGukbap/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BusanGukbap/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@ BusanGukbap solved leetcode problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BusanGukbap/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BusanGukbap/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/BusanGukbap/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/BusanGukbap/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/BusanGukbap/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/BusanGukbap/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/BusanGukbap/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -17,6 +18,7 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BusanGukbap/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [1345-jump-game-iv](https://github.com/BusanGukbap/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/BusanGukbap/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -55,4 +57,5 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/BusanGukbap/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/BusanGukbap/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 <!---LeetCode Topics End-->

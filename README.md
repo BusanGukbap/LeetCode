@@ -29,6 +29,7 @@ BusanGukbap solved leetcode problems
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/BusanGukbap/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/BusanGukbap/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/BusanGukbap/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/BusanGukbap/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ BusanGukbap solved leetcode problems
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/BusanGukbap/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/BusanGukbap/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/BusanGukbap/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

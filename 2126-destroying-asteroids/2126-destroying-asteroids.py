@@ -4,15 +4,11 @@ class Solution:
 
         print(asteroids)
 
-        temp = list()
-
         n = len(asteroids)
-        temp.append(mass)
-        for i in range(n):
-            if temp[-1] < asteroids[i]:
+        for a in asteroids:
+            if mass < a:
                 return False
-            
-            temp.append(temp[-1] + asteroids[i])
+            mass += a
         
         return True
 

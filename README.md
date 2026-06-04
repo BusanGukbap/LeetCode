@@ -108,6 +108,7 @@ BusanGukbap solved leetcode problems
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/BusanGukbap/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BusanGukbap/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/BusanGukbap/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ BusanGukbap solved leetcode problems
 | [0396-rotate-function](https://github.com/BusanGukbap/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [1340-jump-game-v](https://github.com/BusanGukbap/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/BusanGukbap/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/BusanGukbap/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +129,8 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/BusanGukbap/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/BusanGukbap/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->

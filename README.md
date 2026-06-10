@@ -53,6 +53,7 @@ BusanGukbap solved leetcode problems
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/BusanGukbap/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/BusanGukbap/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/BusanGukbap/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Greedy
@@ -79,6 +80,7 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/BusanGukbap/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0067-add-binary](https://github.com/BusanGukbap/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1871-jump-game-vii](https://github.com/BusanGukbap/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/BusanGukbap/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/BusanGukbap/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -110,10 +112,12 @@ BusanGukbap solved leetcode problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/BusanGukbap/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/BusanGukbap/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/BusanGukbap/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0396-rotate-function](https://github.com/BusanGukbap/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BusanGukbap/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/BusanGukbap/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |

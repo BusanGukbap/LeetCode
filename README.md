@@ -97,6 +97,7 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/BusanGukbap/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BusanGukbap/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ BusanGukbap solved leetcode problems
 | [0067-add-binary](https://github.com/BusanGukbap/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0396-rotate-function](https://github.com/BusanGukbap/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BusanGukbap/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BusanGukbap/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/BusanGukbap/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/BusanGukbap/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Dynamic Programming
@@ -152,6 +154,7 @@ BusanGukbap solved leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/BusanGukbap/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BusanGukbap/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

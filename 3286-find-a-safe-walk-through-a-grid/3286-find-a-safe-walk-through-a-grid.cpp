@@ -11,7 +11,7 @@ public:
 
         vector<vector<int>> maze(m, vector<int>(n, -1));
         
-        priority_queue<pair<int, pair<int, int>>> pq;
+        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>> > pq;
         pq.push({grid[0][0], {0, 0}});
 
         while (!pq.empty()) {

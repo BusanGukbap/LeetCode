@@ -1,24 +1,14 @@
-import math
-
 class Solution:
     def sequentialDigits(self, low: int, high: int) -> List[int]:
-        s = "123456789"
+        digits = "123456789"
+        result = []
 
-        a = int(math.log10(low))+1
-        b = int(math.log10(high))+1
-
-        # print(a, b)
-
-        ans = list()
-
-        for i in range(10):
-            for j in range(i+a, i+b+1):
-                if j >= 10:
-                    break
-                
-                num = int(s[i:j])
-                # print(num)
+        # 잘라낼 길이를 2자리부터 9자리까지 늘려가며
+        for length in range(2, len(digits) + 1):
+            # 그 길이만큼 왼쪽부터 한 칸씩 밀며 잘라냄
+            for start in range(len(digits) - length + 1):
+                num = int(digits[start:start + length])
                 if low <= num <= high:
-                    ans.append(num)
-        
-        return sorted(ans)
+                    result.append(num)
+
+        return result
